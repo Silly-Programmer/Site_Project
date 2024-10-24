@@ -12,7 +12,7 @@ h2,h1,h5,p{
     background-color: darkslategray;
 }
 .card:hover{
-    scale:1.9;
+    transform:scale(1.5);
 }
 nav{
     height: 10vh;
